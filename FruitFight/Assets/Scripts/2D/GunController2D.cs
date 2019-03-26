@@ -34,7 +34,7 @@ public class GunController2D : MonoBehaviour {
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.Mouse0))
+        if (Input.GetKey(KeyCode.Space))
         {
             AK();
             Shotgun();
