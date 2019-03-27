@@ -2335,7 +2335,7 @@ MonoBehaviour:
   bulletSpawn: {fileID: 1743011300764030}
   shell: {fileID: 1754725649804758, guid: 644c0aa653d628e4b88a7a31eb82e800, type: 2}
   shellSpawn: {fileID: 1453388923184012}
-  muzzleFlash: {fileID: 1079822018418766, guid: 34085ae6e5065614f913c1ce28367e03,
+  muzzleFlash: {fileID: 1640984100076446, guid: f2817f49521801d4d867b7f6a1163aa6,
     type: 2}
   pelletSpawn: {fileID: 1075175221059894}
   pelletSpawn2: {fileID: 1828635073297260}

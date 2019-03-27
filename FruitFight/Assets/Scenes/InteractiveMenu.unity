@@ -1287,6 +1287,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 13
       objectReference: {fileID: 0}
+    - target: {fileID: 114003157733246208, guid: 98fbc1d33c94a7649aebfde20b014574,
+        type: 2}
+      propertyPath: health
+      value: 
+      objectReference: {fileID: 1631164937}
     - target: {fileID: 114629650272602768, guid: 98fbc1d33c94a7649aebfde20b014574,
         type: 2}
       propertyPath: exitPortal
@@ -1297,11 +1302,6 @@ Prefab:
       propertyPath: exitFallPortal
       value: 
       objectReference: {fileID: 1525087348}
-    - target: {fileID: 114003157733246208, guid: 98fbc1d33c94a7649aebfde20b014574,
-        type: 2}
-      propertyPath: health
-      value: 
-      objectReference: {fileID: 1631164937}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 98fbc1d33c94a7649aebfde20b014574, type: 2}
   m_IsPrefabAsset: 0
@@ -7778,11 +7778,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 12
       objectReference: {fileID: 0}
-    - target: {fileID: 114736639200757140, guid: eeb42d42346870f4da598622f2b9c7a3,
-        type: 2}
-      propertyPath: health
-      value: 
-      objectReference: {fileID: 1631164937}
     - target: {fileID: 114159705901806468, guid: eeb42d42346870f4da598622f2b9c7a3,
         type: 2}
       propertyPath: exitPortal
@@ -7793,6 +7788,11 @@ Prefab:
       propertyPath: exitFallPortal
       value: 
       objectReference: {fileID: 1525087348}
+    - target: {fileID: 114736639200757140, guid: eeb42d42346870f4da598622f2b9c7a3,
+        type: 2}
+      propertyPath: health
+      value: 
+      objectReference: {fileID: 1631164937}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eeb42d42346870f4da598622f2b9c7a3, type: 2}
   m_IsPrefabAsset: 0
