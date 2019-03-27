@@ -23,7 +23,7 @@ public class BananaAnim : MonoBehaviour {
             anim.SetBool("isRunning", false);
         }
 
-        if(Input.GetKeyDown(KeyCode.V))
+        if(Input.GetKeyDown(KeyCode.Space))
         {
             anim.SetTrigger("jump");
         }

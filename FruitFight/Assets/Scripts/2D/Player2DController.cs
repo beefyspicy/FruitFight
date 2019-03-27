@@ -38,7 +38,7 @@ public class Player2DController : MonoBehaviour {
         {
             rb.AddForce(transform.up * downForce);
         }
-        else if (rb.velocity.y > 0 && !Input.GetKeyDown(KeyCode.V))
+        else if (rb.velocity.y > 0 && !Input.GetKeyDown(KeyCode.Space))
         {
             rb.AddForce(transform.up * lowForce);
         }
@@ -60,7 +60,7 @@ public class Player2DController : MonoBehaviour {
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.V) && onGround == true)
+        if (Input.GetKeyDown(KeyCode.Space) && onGround == true)
         {
             //PlatformController.effector.rotationalOffset = 0f;
             onGround = false;
